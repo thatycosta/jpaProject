@@ -1,0 +1,2 @@
+# jpaProject
+jpa class
